@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Saguisa_LibraryBookTracker</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="borrow">Borrow</string>
+    <string name="search">Search</string>
+</resources>

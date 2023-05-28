@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "598921006223",
+    "project_id": "androidsemifinal",
+    "storage_bucket": "androidsemifinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598921006223:android:81649d9a3434ff34c3b4fa",
+        "android_client_info": {
+          "package_name": "com.example.saguisa_librarybooktracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598921006223-dkskp3uipjfs1samc30hmu7fhdbvolt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA07FPGFVtUoxGeGbnBtXkCg9eFezol1oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598921006223-dkskp3uipjfs1samc30hmu7fhdbvolt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
